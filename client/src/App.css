@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu:wght@700&display=swap');
+.App {
+  background-color: #F5F7F6;
+}
+.added-card {
+  background-color: #FFF;
+}
+
+.not-added-card {
+  background-color: #F5F7F6;
+}
